@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183637135007",
+    "firebase_url": "https://project-d6a0e.firebaseio.com",
+    "project_id": "project-d6a0e",
+    "storage_bucket": "project-d6a0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183637135007:android:dd36d20ff458dbc6795caa",
+        "android_client_info": {
+          "package_name": "edu.upenn.cis350.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183637135007-5i06eetm3duiiblng5ckvek0f406pj4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.upenn.cis350.project",
+            "certificate_hash": "9de5871e6761c9e0a4f647448ceb0ddb198e9bb7"
+          }
+        },
+        {
+          "client_id": "183637135007-bnmj1s5noq416us4dodepsq5lq66uhc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2FhQxOSxlJn9GHKA_jXKGya1ObddXWTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183637135007-bnmj1s5noq416us4dodepsq5lq66uhc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
